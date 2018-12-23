@@ -1,8 +1,0 @@
-{
-  "name": "extra-web",
-  "version": "1.0.0",
-  "main": "index.js",
-  "repository": "git@github.com:chrisaandes/clubextra-web.git",
-  "author": "Christian España <espanasilva33@gmail.com>",
-  "license": "MIT"
-}
